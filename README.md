@@ -1,3 +1,3 @@
 # Issue-tracker
 
-An applicatgion 
+An application for sorting out the bugs and issues.
